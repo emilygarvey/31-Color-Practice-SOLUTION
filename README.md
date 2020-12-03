@@ -1,1 +1,0 @@
-# 31-Color-Practice-SOLUTION
