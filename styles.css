@@ -1,0 +1,23 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+}
+
+h1 {
+    font-style: italic;
+    color: #333;
+}
+
+.challenges div {
+    padding: 20px 10px;
+}
+
+button {
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
